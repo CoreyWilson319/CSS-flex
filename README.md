@@ -1,2 +1,2 @@
-# CSS-flex
+# css-flex
 flex
